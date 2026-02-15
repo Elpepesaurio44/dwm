@@ -2,9 +2,6 @@
 
 ---
 
-### Nuevo `README.md` para tu Repositorio
-
-```markdown
 # dwm - Dynamic Window Manager (Personalizado por Elpepesaurio44)
 
 Esta es mi versión personalizada de **dwm**, construida sobre la paleta de colores **Nord** y optimizada para el rendimiento.
@@ -27,8 +24,6 @@ El instalador gestiona esto, pero el build está diseñado para:
    ```bash
    git clone [https://github.com/Elpepesaurio44/dwm.git](https://github.com/Elpepesaurio44/dwm.git)
    cd dwm
-
-```
 
 2. **Ejecuta el script universal:**
 ```bash
