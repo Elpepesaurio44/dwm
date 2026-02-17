@@ -1,7 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 
 /* Línea 7: Usa una fuente que soporte iconos (Nerd Fonts) */
-static const char *fonts[]          = { "JetBrainsMono Nerd Font:size=10" };
+static const char *fonts[]          = { "Monocraft:size=10" };
 
 /* Líneas 10-13: Colores más elegantes */
 /* appearance */
